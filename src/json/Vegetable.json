@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "vegetable_title": "pepper",
+        "vegetable_img": "images/img_vegetables_pepper.png"
+    },
+    {
+        "id": 2,
+        "vegetable_title": "carrot",
+        "vegetable_img": "images/img_vegetables_carrot.png"
+    },
+    {
+        "id": 3,
+        "vegetable_title": "corn",
+        "vegetable_img": "images/img_vegetables_corn.png"
+    }
+]
